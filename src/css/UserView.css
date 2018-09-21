@@ -1,0 +1,9 @@
+.pad{
+    padding: 5px;
+    border-radius: 2px
+}
+.iconSize{
+    font-size: 18px;
+    color: black;
+    line-height: 38px
+}
