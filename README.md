@@ -1,5 +1,5 @@
 # cart
-open cmd in cart/server/data
+open cmd in cart/server/data\n\t
     -json-server --watch db.json
 cd cart
     -npm install
